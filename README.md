@@ -1,5 +1,7 @@
 <div align="center" width="50">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
 <h2>عبد الحميد | Abdelhamid</h2>
 <p><strong>Python Developer</strong> · <strong>Video Editor (DaVinci Resolve)</strong></p>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=0e75b6" />
@@ -44,9 +46,9 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 <div align="center" style="border: 3px solid #FF4500; border-radius: 10px; padding: 15px; background-color:#FFF5EE; width: fit-content; margin:auto;">
 
-🐍 Python ▓▓▓▓▓▓▓▓▓░ 90% &nbsp; | &nbsp; 🎬 DaVinci Resolve ▓▓░░░░░░ 10%  
-🧠 Problem Solving ▓▓▓▓▓▓▓▓░ 80% &nbsp; | &nbsp; 🎨 Color Grading ▓▓▓░░░░░ 20%  
-🔧 Git & GitHub ▓▓▓▓▓▓▓░░░ 70%
+<span style="color:#306998;">🐍 Python ▓▓▓▓▓▓▓▓▓░ 90%</span> &nbsp; | &nbsp; <span style="color:#000000;">🎬 DaVinci Resolve ▓▓░░░░░░ 10%</span><br>
+<span style="color:#FF8C00;">🧠 Problem Solving ▓▓▓▓▓▓▓▓░ 80%</span> &nbsp; | &nbsp; <span style="color:#FF1493;">🎨 Color Grading ▓▓▓░░░░░ 20%</span><br>
+<span style="color:#228B22;">🔧 Git & GitHub ▓▓▓▓▓▓▓░░░ 70%</span>
 
 </div>
 
@@ -81,7 +83,7 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 ---
 
-## 💡 Programming Wisdom |  
+## 💡 Programming Wisdom | حكمة برمجة
 *"Code is like humor. When it’s clear, it shines."*  
 «البرمجة مثل النكتة، عندما تكون واضحة، تتألق.»
 
