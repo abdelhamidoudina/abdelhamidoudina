@@ -10,7 +10,7 @@
 
 ---
 
-## 🌈 Skills & Tools
+## 💪 Skills & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
