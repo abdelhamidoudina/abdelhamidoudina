@@ -62,7 +62,7 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 - **Python Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=&type=source&language=Python)  
 - **Video Editing Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=davinci&type=source)
 
-> Projects automatically updated when new repos are uploaded.
+
 
 ---
 
