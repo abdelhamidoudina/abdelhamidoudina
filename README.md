@@ -1,8 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
 <h2>عبد الحميد | Abdelhamid</h2>
 <p><strong>Python Developer</strong> · <strong>Video Editor (DaVinci Resolve)</strong></p>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=0e75b6" />
@@ -11,7 +8,7 @@
 
 ---
 
-##  Skills & Tools
+## 🌈 Skills & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -84,15 +81,8 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 ---
 
-## 💡 Programming Wisdom | حكمة برمجة
+## 💡 Programming Wisdom |  
 *"Code is like humor. When it’s clear, it shines."*  
 «البرمجة مثل النكتة، عندما تكون واضحة، تتألق.»
 
-</div>
-
----
-
-## Contact
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-- Telegram: YOUR_TELEGRAM
 
