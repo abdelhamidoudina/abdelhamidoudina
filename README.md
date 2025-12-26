@@ -46,9 +46,13 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 <div align="center" style="border: 3px solid #FF4500; border-radius: 10px; padding: 15px; background-color:#FFF5EE; width: fit-content; margin:auto;">
 
-<span style="color:#306998;">🐍 Python ▓▓▓▓▓▓▓▓▓░ 90%</span> &nbsp; | &nbsp; <span style="color:#000000;">🎬 DaVinci Resolve ▓▓░░░░░░ 10%</span><br>
-<span style="color:#FF8C00;">🧠 Problem Solving ▓▓▓▓▓▓▓▓░ 80%</span> &nbsp; | &nbsp; <span style="color:#FF1493;">🎨 Color Grading ▓▓▓░░░░░ 20%</span><br>
-<span style="color:#228B22;">🔧 Git & GitHub ▓▓▓▓▓▓▓░░░ 70%</span>
+<span style="color:#228B22;">🐍 Python ▓▓▓▓▓▓▓▓▓░ 90%</span> &nbsp; | &nbsp; 
+<span style="color:#FF0000;">🎬 DaVinci Resolve ▓▓░░░░░░ 10%</span><br>
+
+<span style="color:#228B22;">🧠 Problem Solving ▓▓▓▓▓▓▓▓░ 80%</span> &nbsp; | &nbsp; 
+<span style="color:#FF0000;">🎨 Color Grading ▓▓░░░░░░ 20%</span><br>
+
+<span style="color:#FFFF00;">🔧 Git & GitHub ▓▓▓▓▓▓▓░░░ 70%</span>
 
 </div>
 
@@ -83,8 +87,9 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 ---
 
-## 💡 Programming Wisdom | حكمة برمجة
+## 💡 Programming Wisdom |  
 *"Code is like humor. When it’s clear, it shines."*  
 «البرمجة مثل النكتة، عندما تكون واضحة، تتألق.»
+»
 
 
