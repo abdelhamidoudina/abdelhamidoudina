@@ -1,64 +1,57 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/>
-
-### 👋 Hi, I'm **Abdelhamid**
-**Python Developer 🐍 | Learning Video Editing 🎬**
-
-I love building useful Python tools and learning creative montage & editing.
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
+<h2>عبد الحميد | Abdelhamid</h2>
+<p><strong>Python Developer</strong> · <strong>Video Editor (DaVinci Resolve)</strong></p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=0e75b6" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-- 💻 Python programmer (scripts, automation, small projects)
-- 🎬 Learning **video editing & montage**
-- 🐧 Linux enthusiast
-- 📚 Always learning by building
+## Profile
+Python developer using **PyCharm** on **Windows**, focused on clean, practical code.  
+Also a video editor with **DaVinci Resolve**, working on montages and color grading.
 
 ---
 
-## 🧰 Tools & Technologies
-
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-
-### 🖥️ Editors & OS
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
-
-### 🎨 Video Editing (Learning)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
+## Skills
+- **Programming:** Python, Git & GitHub, PyCharm  
+- **Video Editing:** DaVinci Resolve (cuts, transitions, color grading)  
+- **Environment:** Windows
 
 ---
 
-## 📂 What I Do
-- ✔ Python scripts & small programs
-- ✔ Automation & problem solving
-- ✔ Video cuts, effects & basic montage
+## Development Progress
+🐍 Python ▓▓▓▓▓▓▓▓▓░ 90% &nbsp; | &nbsp; 🎬 DaVinci Resolve ▓▓░░░░░░ 10%  
+🧠 Problem Solving ▓▓▓▓▓▓▓▓░ 80% &nbsp; | &nbsp; 🎨 Color Grading ▓▓▓░░░░░ 20%  
+🔧 Git & GitHub ▓▓▓▓▓▓▓░░░ 70%
 
 ---
 
-## 📈 GitHub Stats
+## Projects (Linked to Profile)
+- **Python Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=&type=source&language=Python)  
+- **Video Editing Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=davinci&type=source)
+
+> Projects automatically updated when new repos are uploaded.
+
+---
+
+## Learning Roadmap
+- **Python:** OOP, real-world scripts, readable code  
+- **Software Dev:** Better Git workflow, project structure  
+- **Video Editing:** Advanced transitions, color grading, faster workflow
+
+---
+
+## GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>
 
 ---
 
-## 📬 Contact
-- 💬 Telegram: **YOUR_TELEGRAM**
-- 🌍 GitHub: **@YOUR_USERNAME**
+## Contact
+- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- Telegram: YOUR_TELEGRAM
 
----
-
-> ⚡ *Learning step by step — code by code, frame by frame.*
