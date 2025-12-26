@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h1>عبد الحميد | Abdelhamid</h1>
+<h1>عبد الحميد | Hi I am Abdelhamid👋</h1>
 <p><strong>👉🏻 Python Developer</strong> · <strong>🌟 Video Editor (DaVinci Resolve)</strong></p>
 <p><strong>I am learning Python and aiming to develop</strong></p>
 
