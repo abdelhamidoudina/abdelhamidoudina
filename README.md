@@ -1,10 +1,10 @@
-<div align="center" width="50">
+<div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h2>عبد الحميد | Abdelhamid</h2>
-<p><strong>Python Developer</strong> · <strong>Video Editor (DaVinci Resolve)</strong></p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=0e75b6" />
+<h1>عبد الحميد | Abdelhamid</h1>
+<p><strong>👉🏻 Python Developer</strong> · <strong>🌟 Video Editor (DaVinci Resolve)</strong></p>
+<p><strong>I am learning Python and aiming to develop</strong></p>
 
 </div>
 
@@ -28,12 +28,6 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white)
 ![Color Grading](https://img.shields.io/badge/Color_Grading-FF69B4?style=flat)
 
-### Others
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
 ---
 
 ## Profile
@@ -44,52 +38,39 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 ## 🛠️ Development Progress
 
-<div align="center" style="border: 3px solid #FF4500; border-radius: 10px; padding: 15px; background-color:#FFF5EE; width: fit-content; margin:auto;">
+<div align="center">
 
-<span style="color:#228B22;">🐍 Python ▓▓▓▓▓▓▓▓▓░ 90%</span> &nbsp; | &nbsp; 
-<span style="color:#FF0000;">🎬 DaVinci Resolve ▓▓░░░░░░ 10%</span><br>
-
-<span style="color:#228B22;">🧠 Problem Solving ▓▓▓▓▓▓▓▓░ 80%</span> &nbsp; | &nbsp; 
-<span style="color:#FF0000;">🎨 Color Grading ▓▓░░░░░░ 20%</span><br>
-
-<span style="color:#FFFF00;">🔧 Git & GitHub ▓▓▓▓▓▓▓░░░ 70%</span>
+![Python](https://img.shields.io/badge/Python-90%25-green?style=for-the-badge&logo=python&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-10%25-red?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-80%25-green?style=for-the-badge)
+![Color Grading](https://img.shields.io/badge/Color_Grading-20%25-red?style=for-the-badge)
+![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-70%25-yellow?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## Projects (Linked to Profile)
+## 🚀 Projects (Linked to Profile)
 - **Python Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=&type=source&language=Python)  
 - **Video Editing Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=davinci&type=source)
 
-
+> Projects automatically updated when new repos are uploaded.
 
 ---
 
-## Learning Roadmap
+## 📚 Learning Roadmap
 - **Python:** OOP, real-world scripts, readable code  
 - **Software Dev:** Better Git workflow, project structure  
 - **Video Editing:** Advanced transitions, color grading, faster workflow
 
 ---
 
-## GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
-
-## Contact
+## 📫 Contact
 - GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
 - Telegram: YOUR_TELEGRAM
 
 ---
 
-## 💡 Programming Wisdom |  
+## 💡 Programming Wisdom | حكمة برمجة
 *"Code is like humor. When it’s clear, it shines."*  
 «البرمجة مثل النكتة، عندما تكون واضحة، تتألق.»
-»
-
-
