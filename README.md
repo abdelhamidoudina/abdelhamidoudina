@@ -66,7 +66,7 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 ## 📫 Contact
 - GitHub: [abdelhamidoudina](https://github.com/YOUR_USERNAME)  
-- Telegram:<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cbcf5ab5-9f56-4ef2-807a-1dde77ccebde" />
+- Telegram:<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cbcf5ab5-9f56-4ef2-807a-1dde77ccebde" />
 
 
 ---
