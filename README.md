@@ -15,7 +15,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ED8B00?style=flat&logo=HTML&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Editors
