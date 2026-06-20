@@ -25,8 +25,7 @@
 ---
 
 ## Profile
-Python developer using **PyCharm** on **Windows**, focused on clean, practical code.  
-Also a video editor with **DaVinci Resolve**, working on montages and color grading.
+Python developer using **vscode** on **Windows**, focused on clean, practical code.  
 
 ---
 
@@ -43,8 +42,8 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 ---
 
 ## 🚀 Projects (Linked to Profile)
-- **Python Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=&type=source&language=Python)  
-- **Video Editing Projects:** [View All](https://github.com/YOUR_USERNAME?tab=repositories&q=davinci&type=source)
+- **Python Projects:** [View All](https://github.comabdelhamidoudina?tab=repositories&q=&type=source&language=Python)  
+
 
 
 ---
@@ -52,7 +51,7 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 ## 📚 Learning Roadmap
 - **Python:** OOP, real-world scripts, readable code  
 - **Software Dev:** Better Git workflow, project structure  
-- **Video Editing:** Advanced transitions, color grading, faster workflow
+
 
 ---
 
@@ -61,7 +60,3 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 - Telegram:<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cbcf5ab5-9f56-4ef2-807a-1dde77ccebde" />
 
 
----
-
-## 💡 Programming Wisdom |
-*"Code is like humor. When it’s clear, it shines."*  
