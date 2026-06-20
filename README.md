@@ -19,14 +19,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Editors
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=green)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-### Video Editing
-![CapCut](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white)
-![Color Grading](https://img.shields.io/badge/Color_Grading-FF69B4?style=flat)
 
 ---
 
@@ -40,10 +34,8 @@ Also a video editor with **DaVinci Resolve**, working on montages and color grad
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-90%25-green?style=for-the-badge&logo=python&logoColor=white)
-![CapCut](https://img.shields.io/badge/DaVinci_Resolve-70%25-red?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-80%25-green?style=for-the-badge)
-![Color Grading](https://img.shields.io/badge/Color_Grading-20%25-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-20%25-green?style=for-the-badge&logo=python&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-40%25-green?style=for-the-badge)
 ![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-70%25-yellow?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
