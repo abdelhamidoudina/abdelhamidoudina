@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <h1>عبد الحميد | Hi I am Abdelhamid👋</h1>
-<p><strong>👉🏻 Python Developer</strong> · <strong>🌟 Video Editor (DaVinci Resolve)</strong></p>
+<p><strong>👉🏻 Python Developer</strong> 
 <p><strong>I am learning Python and aiming to develop</strong></p>
 
 </div>
@@ -15,7 +15,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Editors
